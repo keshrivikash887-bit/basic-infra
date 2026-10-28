@@ -5,6 +5,11 @@ rgs={
             name="babaTillu"
             location="Central India"
         }
+
+         rg2={
+            name="babaTilluji"
+            location="Central India"
+        }
     }
 
 stg={
